@@ -1,0 +1,3 @@
+classes/vendor
+.idea/*
+classes/composer.lock
